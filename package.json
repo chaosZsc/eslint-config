@@ -1,0 +1,30 @@
+{
+  "name": "@chaos/eslint-config-monorepo",
+  "version": "0.0.1",
+  "description": "A collection of self-use eslint configs",
+  "keywords": [
+    "eslint-config",
+    "monorepo",
+    "pnpm",
+    "lerna"
+  ],
+  "homepage": "https://github.com/chaosZsc/eslint-config#readme",
+  "bugs": {
+    "url": "https://github.com/chaosZsc/eslint-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosZsc/eslint-config.git"
+  },
+  "license": "MIT",
+  "author": "chaosZsc <chaos_zsc@163.com>",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "release": "lerna publish"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "lerna": "^4.0.0"
+  }
+}
