@@ -15,5 +15,6 @@ module.exports = {
 
   extends: [
     './rules/possible-problems',
+    './rules/suggestions',
   ].map(require.resolve),
 };
