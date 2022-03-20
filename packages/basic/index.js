@@ -16,5 +16,6 @@ module.exports = {
   extends: [
     './rules/possible-problems',
     './rules/suggestions',
+    './rules/layoutAndFormatting',
   ].map(require.resolve),
 };
