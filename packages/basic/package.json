@@ -1,0 +1,24 @@
+{
+  "name": "@chaos/eslint-config-basic",
+  "version": "0.0.0",
+  "description": "eslint basic configs",
+  "keywords": [
+    "eslint",
+    "basic"
+  ],
+  "license": "MIT",
+  "author": "chaosZsc <chaos_zsc@163.com>",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "eslint . --config=index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
