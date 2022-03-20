@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/chaosZsc/eslint-config/compare/@chaos/eslint-config-basic@0.1.0...@chaos/eslint-config-basic@0.1.1) (2022-03-20)
+
+
+### Bug Fixes
+
+* add 'publishConfig' property in 'package.json' ([007afdf](https://github.com/chaosZsc/eslint-config/commit/007afdf482c86c20457e616f2c86ae175326f693))
+
+
+
+
+
 # 0.1.0 (2022-03-20)
 
 
