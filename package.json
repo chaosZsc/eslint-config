@@ -1,5 +1,5 @@
 {
-  "name": "@chaos/eslint-config-monorepo",
+  "name": "@chaos_zsc/eslint-config-monorepo",
   "version": "0.0.1",
   "description": "A collection of self-use eslint configs",
   "keywords": [
