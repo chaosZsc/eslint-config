@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/chaosZsc/eslint-config/compare/@chaos_zsc/eslint-config-basic@0.2.1...@chaos_zsc/eslint-config-basic@0.3.0) (2022-03-21)
+
+
+### Features
+
+* add 'import', 'n', 'promise' plugin and rules ([4a6b137](https://github.com/chaosZsc/eslint-config/commit/4a6b1378df28d762a5ff79f68cdcc43972362cc0))
+
+
+
+
+
 ## [0.2.1](https://github.com/chaosZsc/eslint-config/compare/@chaos_zsc/eslint-config-basic@0.2.0...@chaos_zsc/eslint-config-basic@0.2.1) (2022-03-21)
 
 
