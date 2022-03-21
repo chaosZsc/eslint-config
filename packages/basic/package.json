@@ -10,7 +10,8 @@
   "author": "chaosZsc <chaos_zsc@163.com>",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "rules"
   ],
   "scripts": {
     "lint": "eslint . --config=index.js"
