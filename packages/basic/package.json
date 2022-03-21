@@ -17,10 +17,15 @@
     "lint": "eslint . --config=index.js"
   },
   "devDependencies": {
-    "eslint": "^8.11.0"
+    "eslint": "^8.11.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-n": "^15.0.1",
+    "eslint-plugin-promise": "^6.0.0"
   },
   "peerDependencies": {
-    "eslint": "^8.11.0"
+    "eslint": "^8.11.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-promise": "^6.0.0"
   },
   "publishConfig": {
     "access": "public"

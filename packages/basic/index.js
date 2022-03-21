@@ -17,5 +17,14 @@ module.exports = {
     './rules/possible-problems',
     './rules/suggestions',
     './rules/layoutAndFormatting',
+    './rules/importPlugin',
+    './rules/nPlugin',
+    './rules/promisePlugin',
   ].map(require.resolve),
+
+  plugins: [
+    'import',
+    'n',
+    'promise',
+  ],
 };
