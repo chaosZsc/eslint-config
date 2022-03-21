@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/chaosZsc/eslint-config/compare/@chaos_zsc/eslint-config-basic@0.2.0...@chaos_zsc/eslint-config-basic@0.2.1) (2022-03-21)
+
+
+### Bug Fixes
+
+* add 'rules' folder to tabball ([ad5526a](https://github.com/chaosZsc/eslint-config/commit/ad5526a7fe5104be8b32f2ec6976908f35a4ff8c))
+
+
+
+
+
 # 0.2.0 (2022-03-20)
 
 
